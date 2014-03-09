@@ -1,0 +1,10 @@
+Michael
+ 76300 
+ John
+ 15000 
+Andy Au
+ 14600 
+Michael
+ 300 
+Name
+ 0 
